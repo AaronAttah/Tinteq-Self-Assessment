@@ -1,0 +1,14 @@
+# build*
+*.env
+*node_modules
+*build
+*logs
+# *key.json
+*.env.development
+*.env.production
+package-lock.json
+package-lock copy.json
+test.env
+logfile.log
+uncaughtExceptions.log
+
