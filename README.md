@@ -23,7 +23,7 @@ Here is a quick guide to help you get setup:
 
 - Clone the repository
 
-       $ git clone https://github.com/--/-backend.git/
+       $ git clone https://github.com/AaronAttah/Tinteq-Self-Assessment
 
 
 
@@ -72,21 +72,20 @@ Here is a quick guide to help you get setup:
 ## Folder/Directory Structure
 
 - Src
-- Route
-- Model
-- Operations
-- Controller
-- Services
-- Repository
-- Middleware
-- Startup
-- Utils
-- Validations
-- Interfaces
-- Config
-- Test
-- e.t.c
-     
+     - Route
+     - Model
+     - Operations
+     - Controller
+     - Services
+     - Repository
+     - Middleware
+     - Startup
+     - Utils
+     - Validations
+     - Interfaces
+     - Config
+     - e.t.c
+          
 
 ## Technology Stacks
 
@@ -97,7 +96,6 @@ This application has been built with the following technologies:
 ![img](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![img](https://img.shields.io/badge/Typescript.js-3399ff?style=for-the-badge&logo=nodedotjs&logoColor=blue)
 ![img](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![img](https://img.shields.io/badge/Cloudinary-0000BB?style=for-the-badge)
 ![img](https://img.shields.io/badge/Render-4EA900?style=for-the-badge)
 
 
